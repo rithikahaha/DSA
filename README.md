@@ -1,6 +1,6 @@
 # DSA Practice
 
-NeetCode / LeetCode problems in Python. Each file has the **problem**, the **solution**, and a **numbered, step-by-step explanation** written for beginners.
+NeetCode / LeetCode problems in Python. Each file is written for beginners and has: the **problem**, the **words you need first**, **how to come up with the idea**, the **solution**, a **line-by-line explanation**, a **table that traces the code running**, and the **time/space cost** in plain English.
 
 ## How to think about a new problem
 
